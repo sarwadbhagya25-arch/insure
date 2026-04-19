@@ -1,6 +1,6 @@
 # Insure Inc, custom WordPress insurance landing page
 
-A custom WordPress theme for an automobile insurance landing page. The project is designed as a clean multi-section website with a strong hero banner, trust signals, coverage highlights, FAQs, and a contact section with map integration.
+A custom PHP website in WordPress about Car Insurance. The project is designed as a clean multi-section website with a strong hero banner, trust signals, coverage highlights, FAQs, and a contact section with map integration.
 
 ## Project overview
 
