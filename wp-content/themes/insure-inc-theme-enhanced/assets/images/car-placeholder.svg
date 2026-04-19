@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" fill="none">
+  <rect width="900" height="520" rx="36" fill="#EEF4FF"/>
+  <path d="M154 332C154 304.386 176.386 282 204 282H674C705.928 282 734.932 300.637 748.24 329.659L781.5 402.159C792.659 426.487 774.875 454 748.109 454H209C178.624 454 154 429.376 154 399V332Z" fill="#2563EB" opacity="0.10"/>
+  <path d="M232 302H586C620.259 302 651.406 321.846 665.9 352.89L690 404H200L232 302Z" fill="#1E40AF" opacity="0.18"/>
+  <path d="M279 231C300.151 197.742 336.846 178 376.263 178H541.737C581.154 178 617.849 197.742 639 231L676 289H242L279 231Z" fill="#3B82F6" opacity="0.22"/>
+  <rect x="316" y="216" width="120" height="62" rx="14" fill="white" opacity="0.85"/>
+  <rect x="466" y="216" width="132" height="62" rx="14" fill="white" opacity="0.85"/>
+  <circle cx="284" cy="405" r="49" fill="#0F172A"/>
+  <circle cx="617" cy="405" r="49" fill="#0F172A"/>
+  <circle cx="284" cy="405" r="24" fill="#CBD5E1"/>
+  <circle cx="617" cy="405" r="24" fill="#CBD5E1"/>
+  <path d="M235 302H665L692 377H205L235 302Z" fill="url(#paint0_linear)"/>
+  <path d="M341 124C341 108.536 353.536 96 369 96H532C547.464 96 560 108.536 560 124V142H341V124Z" fill="#F59E0B" opacity="0.8"/>
+  <text x="450" y="104" text-anchor="middle" dominant-baseline="middle" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">INSURE INC</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="205" y1="339.5" x2="692" y2="339.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+</svg>
